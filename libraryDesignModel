@@ -1,0 +1,21 @@
+{
+_id:ObjectId(''),
+isbn:'',
+title:''
+authors :[
+    {name:"",address="",...},
+    {name:"",address="",...},
+    ...]
+tags:["","",""]
+copies:[
+		{
+        copyNo:'',
+        borrowDate:'',
+		borrowedBy:	{stud_id:'',stud_name:'',...},
+        returnDate:''
+		},
+        {
+        ...
+        }
+	]
+}
